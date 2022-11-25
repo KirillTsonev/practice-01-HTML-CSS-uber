@@ -1,1 +1,1 @@
-A basic landing page made with HTML and CSS.
+A static landing page made with HTML and CSS.
